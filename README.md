@@ -1,5 +1,3 @@
-## Hello there 👋
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +7,7 @@
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
+    <h1>Hello there 👋</h1>
     <p> New projects will be soon...</p>
     </div>
 
