@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <html lang="en">
 <head>
@@ -10,7 +10,7 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> This repository will contain links to my pet projects...</p>
+    <p> New projects will be soon...</p>
     </div>
 
   <div style="display: flex; justify-content: space-between;">
