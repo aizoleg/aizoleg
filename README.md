@@ -8,7 +8,7 @@
 
 <div class="header">
     <h1>Hello there 👋</h1>
-    <p> New projects will be soon...</p>
+    <p> My stats</p>
     </div>
 
   <div style="display: flex; justify-content: space-between;">
